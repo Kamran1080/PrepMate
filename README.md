@@ -5,7 +5,7 @@
 
 **Backend:** https://prepmate-backend-pb2s.onrender.com
 
-**GitHub Repository:** https://github.com/Ashvini-27/PrepMate
+**GitHub Repository:** https://github.com/Kamran1080/PrepMate
 
 ---
 
